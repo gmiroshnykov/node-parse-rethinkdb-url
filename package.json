@@ -1,5 +1,5 @@
 {
-  "name": "node-parse-rethinkdb-url",
+  "name": "parse-rethinkdb-url",
   "version": "0.0.1",
   "description": "Parse RethinkDB URL string into an object ready for consumption by RethinkDB JavaScript API",
   "main": "index.js",
