@@ -3,6 +3,8 @@ parse-rethinkdb-url
 
 Parse RethinkDB URL string into an object ready for consumption by RethinkDB JavaScript API.
 
+[![Build Status](https://travis-ci.org/laggyluke/node-parse-rethinkdb-url.svg?branch=master)](https://travis-ci.org/laggyluke/node-parse-rethinkdb-url)
+
 Installation
 ------------
 
